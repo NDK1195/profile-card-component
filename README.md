@@ -9,7 +9,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/NDK1195/profile-card-component)
-- Live Site URL: [Live site URL here](https://ndk1195.github.io/3-column-preview-card-component/)
+- Live Site URL: [Live site URL here](https://ndk1195.github.io/profile-card-component/)
 
 ### Built with
 
